@@ -114,8 +114,6 @@ Intended Use
 
 RBPTarget is designed for:
 
-Strategy research and testing
-
 Session-based market analysis
 
 Educational purposes
